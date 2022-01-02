@@ -1,0 +1,5 @@
+Create user "fionniepollack-svc" in AWS console.
+Get the access token for the user.
+
+Follow the steps in this guide: https://learn.hashicorp.com/tutorials/terraform/github-actions
+
